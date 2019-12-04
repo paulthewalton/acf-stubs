@@ -1,0 +1,33 @@
+{
+  "name": "paulthewalton/acf-stubs",
+  "version": "5.8.7",
+  "description": "Based on giacocorsiglia/wordpress-stubs. Advanced Custom Fields function, class, and global variable declaration stubs for easier static analysis.",
+  "keywords": [
+    "wordpress",
+    "static analysis",
+    "acf",
+    "advanced custom fields"
+  ],
+  "require-dev": {
+    "php": "^7.1",
+    "ext-gettext": "*",
+    "giacocorsiglia/stubs-generator": "^0.5.0",
+    "giacocorsiglia/wordpress-stubs": "*",
+    "wpackagist-plugin/advanced-custom-fields": "5.8.7"
+  },
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Paul Walton",
+      "email": "pwalton@live.ca",
+      "role": "copycat"
+    }
+  ],
+  "minimum-stability": "stable",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    }
+  ]
+}

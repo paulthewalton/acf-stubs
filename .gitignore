@@ -1,0 +1,4 @@
+/vendor/
+/wp-content/
+composer.lock
+.DS_Store
