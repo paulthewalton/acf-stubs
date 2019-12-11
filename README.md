@@ -6,7 +6,7 @@ The stubs are generated directly from the [source](https://wpackagist.org/search
 
 Many thanks to [GiacoCorsiglia](https://github.com/GiacoCorsiglia), who did all the hard work on [giacocorsiglia/wordpress-stubs](https://github.com/GiacoCorsiglia/wordpress-stubs), from which this is shamelessly ripped off.
 
-*\* If you are using ACF Pro, see [paulthewalton/acf-pro-stubs](https://github.com/paulthewalton/acf-pro-stubs)  
+*\* If you are using ACF Pro, see [paulthewalton/acf-pro-stubs](https://github.com/paulthewalton/acf-pro-stubs)*  
 
 ## Installation
 
