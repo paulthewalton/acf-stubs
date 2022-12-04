@@ -10,13 +10,15 @@
 
 # ~~WordPress~~ Advanced Custom Fields Stubs
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 This package provides stub declarations for ~~Wordpress~~ [Advanced Custom Fields (ACF)](https://wordpress.org/) core functions, classes, interfaces, and global variables. These stubs can help plugin and theme developers leverage static analysis tools.
 
 The stubs are generated directly from the [source](https://wpackagist.org/search?q=advanced-custom-fields&type=plugin&search=) using [giacocorsiglia/stubs-generator](https://github.com/GiacoCorsiglia/php-stubs-generator). Needless to say, this library repackages a subset of ~~WordPress~~ ACF code, which is the work of the ~~WordPress core~~ ACF developers. Granted, it's a useless subset without the real thing!
 
 Many thanks to [GiacoCorsiglia](https://github.com/GiacoCorsiglia), who did all the hard work on [giacocorsiglia/wordpress-stubs](https://github.com/GiacoCorsiglia/wordpress-stubs), from which this is shamelessly ripped off.
 
-*\* If you are using ACF Pro, see [paulthewalton/acf-pro-stubs](https://github.com/paulthewalton/acf-pro-stubs)*  
+*\* ~If you are using ACF Pro, see [paulthewalton/acf-pro-stubs](https://github.com/paulthewalton/acf-pro-stubs)~*  
 
 ## Installation
 
