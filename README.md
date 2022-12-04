@@ -1,3 +1,13 @@
+# ⛔️ ABANDONED ⛔️
+
+> This project has been abandoned. I recommend using [php-stubs/acf-pro-stubs](https://packagist.org/packages/php-stubs/acf-pro-stubs) instead, as it is far more up-to-date and actively maintained.
+
+<br>
+
+---
+
+<br>
+
 # ~~WordPress~~ Advanced Custom Fields Stubs
 
 This package provides stub declarations for ~~Wordpress~~ [Advanced Custom Fields (ACF)](https://wordpress.org/) core functions, classes, interfaces, and global variables. These stubs can help plugin and theme developers leverage static analysis tools.
