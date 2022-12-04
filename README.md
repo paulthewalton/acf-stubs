@@ -1,4 +1,4 @@
-# ⛔️ ABANDONED ⛔️
+# ⛔️ This project has been abandoned. ⛔️
 
 > This project has been abandoned. I recommend using [php-stubs/acf-pro-stubs](https://packagist.org/packages/php-stubs/acf-pro-stubs) instead, as it is far more up-to-date and actively maintained.
 
